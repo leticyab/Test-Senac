@@ -10,3 +10,4 @@ git commit - m "teste shell"   //comitA (seaparecer >> aperta cntrl+c para quebr
 
 git push - envia para o servidor
 kkk
+yhjg
